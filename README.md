@@ -10,12 +10,8 @@ This is a sample Repo created with gh cli
 
 ### create a branch
 
---- git branch b1-create-repo-with-gh
----
+--- git branch b1-create-repo-with-gh ---
 
 ### switch to branch
 
-```
-
-git checkout b1-create-repo-with-gh
-```
+``` git checkout b1-create-repo-with-gh ```
