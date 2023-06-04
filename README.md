@@ -22,3 +22,4 @@ After switching to the branch, make sme changes to any existing file.
 *Commit the changes*
 ``` git commit -m 'message or description to be added to the commit message' ```
 
+### Pull
