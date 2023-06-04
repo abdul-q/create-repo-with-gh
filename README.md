@@ -22,4 +22,18 @@ After switching to the branch, make sme changes to any existing file. \
 *Commit the changes* \
 ``` git commit -m 'message or description to be added to the commit message' ```
 
-### Pull
+### Pull, merge, publish
+
+## Check that your main is up to date
+
+``` git pull origin main ```dotnetcli
+
+## Switch to main
+
+``` git checkout main ```dotnetcli
+
+## merge branch and main
+
+``` git merge b1-create-repo-with-gh ```
+
+## delete branch
