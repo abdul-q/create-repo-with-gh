@@ -26,14 +26,18 @@ After switching to the branch, make sme changes to any existing file. \
 
 ## Check that your main is up to date
 
-``` git pull origin main ```dotnetcli
+``` git pull origin main ```
 
 ## Switch to main
 
-``` git checkout main ```dotnetcli
+``` git checkout main ```
 
 ## merge branch and main
 
 ``` git merge b1-create-repo-with-gh ```
+
+## Push to remote repo
+
+``` git push -u origin main ```
 
 ## delete branch
