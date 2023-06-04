@@ -17,9 +17,9 @@ This is a sample Repo created with gh cli
 ``` git checkout b1-create-repo-with-gh ```
 
 After switching to the branch, make sme changes to any existing file.
-*Add the changes to the repo*
-``` git add *\ ```
-*Commit the changes*
+*Add the changes to the repo* \
+```git add \*```
+*Commit the changes* \
 ``` git commit -m 'message or description to be added to the commit message' ```
 
 ### Pull
